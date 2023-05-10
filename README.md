@@ -1,4 +1,4 @@
-# Data-Sicence and Machineg Learning
+# Data-Sicence and Machine Learning
 Big Data
 
 Dia 1 (08_05_2023)
