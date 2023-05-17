@@ -1,8 +1,38 @@
 # Data-Sicence and Machine Learning
 Big Data
 
-Dia 1 (08_05_2023)
+Día 1 - Lunes
+M5 - 01 - Python Notebook
 
-Dia 2 (09_05_2023)
+M5 - 02 - Condicionales
 
-Dia 3 (10_05_2023)
+M5 - 03 - Bucles
+
+Día 2 - Martes
+SpaceX - 1 - Data Collection Api
+
+SpaceX - 4 - Data Visualization
+
+M5 - 10 - Pandas
+
+Día 3 - Miércoles
+M5 - 06 - Introducción a Machine Learning con Scikit-Learn
+
+M5 - 09 - Folium
+
+Prophet - Predecir el valor de Bitcoin
+
+M5 - 07 - Numpy Array 1D
+
+Día 4 - Jueves
+SpaceX2 - 5 - Interactive Visual Analytics con Folium
+
+SpaceX2 - 6 - Machine Learning Predicciones
+
+Día 5 - Viernes
+M5 - 10 - Matplotlib y Seaborn
+
+Día 6 - Martes
+M5 - 04 - Funciones
+
+M5 - 05 - Clases
