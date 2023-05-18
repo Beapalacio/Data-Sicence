@@ -36,3 +36,6 @@ Día 6 - Martes
 M5 - 04 - Funciones
 
 M5 - 05 - Clases
+
+Día 7 - Miercoles
+M6 - 04 - Programacion Funcional
