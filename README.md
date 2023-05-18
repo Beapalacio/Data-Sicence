@@ -39,3 +39,6 @@ M5 - 05 - Clases
 
 Día 7 - Miercoles
 M6 - 04 - Programacion Funcional
+
+Día 8 - Jueves 
+M6 - 07 - Transformaciones y Acciones sobre RDDs
